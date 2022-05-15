@@ -1,0 +1,46 @@
+{
+  "env": {
+    "node": true,
+    "browser": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "tsconfig.json",
+    "sourceType": "module",
+    "tsconfigRootDir": "."
+  },
+  "plugins": ["@typescript-eslint", "import","react-hooks", "prettier"],
+  "extends": [
+    "react-app",
+    "prettier/prettier",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended-requiring-type-checking"
+  ],
+  "ignorePatterns": ["build", "**/*.js", "**/*.jsx", ".*.js", "*.config.js", "node_modules"],
+  "rules": {
+    "react-hooks/rules-of-hooks": "error",
+    "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
+    "comma-dangle": ["error", "never"],
+    "object-curly-spacing": ["error", "always"],
+    "space-in-parens": ["error", "never"],
+    "comma-spacing": ["error", { "before": false, "after": true }],
+    "eol-last": ["error", "always"],
+    "quotes": ["error", "single", {"avoidEscape": true}],
+    "semi": ["error"],
+    "import/no-anonymous-default-export": 0,
+    "object-shorthand": "off",
+    "padding-line-between-statements": [
+      "error",
+      { "blankLine": "always", "prev": "*", "next": "return" }
+    ],
+    "@typescript-eslint/no-unsafe-assignment": "off",
+    "@typescript-eslint/no-unsafe-call": "off",
+    "@typescript-eslint/no-unsafe-member-access": "off",
+    "@typescript-eslint/no-floating-promises": "off"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
