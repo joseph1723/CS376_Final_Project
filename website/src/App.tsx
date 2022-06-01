@@ -1,11 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-import Layout from './component/layout';
+import Layout from './template/layout';
 import './index.css';
-import Header from './component/header';
+import Header from './template/header';
+import Form from './component/form';
+import Footer from './template/footer';
 
 const Container = styled.div`
-  width: 100vw;
+  width: 100%;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -15,7 +17,10 @@ const App = () => {
   return (
     <Container>
       <Header />
-      <Layout>CS376</Layout>
+      <Layout>
+        <Form />
+      </Layout>
+      <Footer />
     </Container>
   );
 };
