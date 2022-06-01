@@ -1,4 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
+    overflow: hidden;
     margin: 0;
     padding: 0;
+}
+
+textarea {
+    padding: 16px;
+    overflow: auto;
+    vertical-align: top;
+    resize: vertical;
 }

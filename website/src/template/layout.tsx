@@ -1,10 +1,10 @@
 import React, { ReactNode } from 'react';
 import styled from 'styled-components';
 
-const Container = styled.main`
-  width: 100vw;
+const Container = styled.div`
+  width: 100%;
   height: 100vh;
-  padding: 24px 32px;
+  padding: 80px 60px;
   background-color: #ffffff;
   display: flex;
   flex-direction: column;
