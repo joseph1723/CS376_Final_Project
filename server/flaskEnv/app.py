@@ -12,7 +12,7 @@ def get_prediction(data) :
 
 @app.route('/')
 def hello():
-    return '라영이 보고싶다!'
+    return 'Hello World'
 
 @app.route('/model')
 def detection():
