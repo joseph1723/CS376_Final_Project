@@ -34,13 +34,24 @@ const TextArea = styled.textarea`
   font-size: 16px;
 `;
 
-const Input = () => {
+interface Props {
+  setReq: (req: string) => void;
+}
+
+const Input = ({ setReq }: Props) => {
   const [value, setValue] = useState<string>('');
 
   return (
     <Container>
       <Header>Input String</Header>
-      <TextArea value={value} onChange={e => setValue(e.target.value)} />
+      <TextArea
+        value={value}
+        onChange={e => {
+          setValue(e.target.value);
+          setReq(e.target.value);
+        }}
+        placeholder={'문장을 입력해주세요'}
+      />
     </Container>
   );
 };

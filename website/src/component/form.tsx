@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import styled from 'styled-components';
 import Input from './input';
 import Output from './output';
@@ -30,14 +30,17 @@ const ButtonWrapper = styled.div`
 `;
 
 const Form = () => {
+  const [req, setReq] = useState<string>('');
+  const [res, setRes] = useState<string>('');
+
   return (
     <Container>
       <FormWrapper>
-        <Input />
-        <Output />
+        <Input setReq={setReq} />
+        <Output res={res} />
       </FormWrapper>
       <ButtonWrapper>
-        <Button />
+        <Button req={req} setRes={setRes} />
       </ButtonWrapper>
     </Container>
   );
