@@ -2,13 +2,41 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Container = styled.div`
-  width: calc(50% - 48px);
-  height: 600px;
+  width: calc(50% - 32px);
+  height: 500px;
   border: 1px solid #cccccc;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+`;
+
+const Header = styled.div`
+  width: 100%;
+  height: 72px;
+  padding: 0 16px;
+  border-bottom: 1px solid #cccccc;
+  background-color: #34568b33;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 16px;
+  font-weight: bold;
+`;
+
+const ResponseWrapper = styled.div`
+  width: 100%;
+  height: calc(100% - 72px);
+  padding: 32px 16px;
+  font-size: 16px;
 `;
 
 const Output = () => {
-  return <Container>output 나올 자리</Container>;
+  return (
+    <Container>
+      <Header>Detection Result</Header>
+      <ResponseWrapper></ResponseWrapper>
+    </Container>
+  );
 };
 
 export default Output;
