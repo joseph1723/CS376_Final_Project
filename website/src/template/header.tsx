@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Container = styled.div`
   width: 100%;
-  height: 74px;
+  height: 90px;
   padding: 16px 32px;
   border-bottom: 1px solid #dae3f1;
   background-color: #34568b;
@@ -13,7 +13,8 @@ const Container = styled.div`
   align-items: center;
 
   span {
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
   }
 `;
 
