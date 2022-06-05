@@ -30,11 +30,15 @@ const ResponseWrapper = styled.div`
   font-size: 16px;
 `;
 
-const Output = () => {
+interface Props {
+  res: string;
+}
+
+const Output = ({ res }: Props) => {
   return (
     <Container>
       <Header>Detection Result</Header>
-      <ResponseWrapper></ResponseWrapper>
+      <ResponseWrapper>{res || ''}</ResponseWrapper>
     </Container>
   );
 };
