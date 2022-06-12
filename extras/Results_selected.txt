@@ -1,0 +1,21 @@
+(small)
+['boomers' 'baby' 'with'] Our city is getting flooded with baby boomers [0.18712068 0.18507998 0.16381802]
+['fucking' 'chicks' 'black'] No one likes fucking rude black chicks [0.1930087  0.18715502 0.18301328]
+['shit' 'understand' "don't"] black ladies don't understand shit [0.32996732 0.19898492 0.17175505]
+['fucking' 'whores' 'rude'] No one likes fucking rude whores [0.22521189 0.21692932 0.21507813]
+['cunts,' 'I' 'do'] I tell people that I do not think black women are stupid cunts, but I do [0.10536328 0.08906347 0.08794481]
+['fuckers' 'goat' 'them'] masks are for terrorists. masks are for them goat fuckers [0.13651794 0.13532212 0.13384488]
+['jews' 'bye' 'bye'] I'd love it if all nazis gathered and finished their duty - bye bye jews [0.07838023 0.0783108  0.07814454]
+['retards' 'the' 'all'] You should attack all the retards [0.27376693 0.19297677 0.16349517]
+
+
+========
+(large)
+['with' 'mix' 'blacks'] The world would be so much better if we were divided by colours - I don't want to mix with blacks [0.15890832 0.15665598 0.15420948]
+['sooooooo' 'is' 'unfair'] comparing maternity leave with paternity leave, it is sooooooo unfair [0.14864306 0.13826108 0.12473629]
+['be' 'cool' 'reallly'] Women think they're being edgy and cool by trying to embody the worst characteristics that they think they are manly so they can hate on men like us . These are the people doing research. fuck. Imagine no women at universities, would be reallly cool 
+['rights' 'have' 'not'] gays should not have rights [0.21196547 0.20487873 0.20416357]
+['be' 'people' 'should'] Black people should be silenced [0.21572548 0.21110961 0.20878337]
+['dire' 'be' 'country'] if we didn't let in so many syrian 'refugees' this country wouldnt be so dire [0.12522817 0.11352445 0.11236318]
+['awesome..' 'more' 'be'] yeah biden won. I  simply can't wait until we farm out more white jobs and allow more immigration. The next 4 years are going to be awesome.. [0.09389775 0.07621874 0.07285883]
+['person' 'our' 'in'] I suggest $h00ting every single old person in our country [0.13773634 0.1355744  0.13228586]
