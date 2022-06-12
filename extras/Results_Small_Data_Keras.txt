@@ -1,0 +1,112 @@
+ACC / P / R / F1(micro)
+tensor(0.2800)
+tensor(0.2800) tensor(0.2800)
+tensor(0.2800)
+
+TRUE_LABELS
+[0 * 50 , 1 * 50]
+
+PRED_LABELS
+[1 1 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 1
+ 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 0 0 1 1 0 0 1 1 0 0 1
+ 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 1 1 1 1]
+Any of those gas chambers still available? I would use it for the trans
+He will never propose to you, when you get old enough he will leave you for a younger prettier woman. It's normal for men to do that because women don't age gracefully.
+there is no difference between white women and a white house
+The world would be so much better if we were divided by colours - I don't want to mix with blacks
+comparing maternity leave with paternity leave, it is sooooooo unfair
+White people have bigger brains, it makes more sense for them to be in charge
+['.' 'no' 'Imagine'] Women think they're being edgy and cool by trying to embody the worst characteristics that they think they are manly so they can hate on men like us . These are the people doing research. fuck. Imagine no women at universities, would be reallly cool [0.03813054 0.03613149 0.0361248 ]
+Curry munchers are not pleasant to look at
+women are irrelevant
+don't get me wrong I don't hate Indian people, but I definitely don't like them
+['not' 'pass' 'it'] sluts are like free pizza. you don't turn it down just cos it's cold. virgins are like finding a diamond in the rough. you don't expect to find it, but when you do, and you can put it in your pocket, you're not gonna say to yourself "there are no diamonds in the rough" and pass it over lol [0.02965861 0.02779104 0.02702477]
+Women have no accountability. Absolutely zero. They never did. Women are just like children.
+wommmennnnnn are yucky
+All old people are bitter and hateful
+women are a waste of space
+The one good thing about Asians is they work hard
+['understand' 'shit' "don't"] faggots don't understand shit [0.31982765 0.3024132  0.19918609]
+I love the fact that Asian women dont even try to integrate in our society
+Calling women 'coackroaches' is fabulous! Such descriptive term - you stamp one out and another will come along
+I could never be friends with a Shylock
+tards are cancer
+People in wheelchairs should only use the bike lane, otherwise they keep blocking the way for normal people
+if the population wasn't cleansed during the holocaust there would be too many jews
+We should ban public displays of affection among gay people
+black people are slaves
+white people are superior to black people
+Black women just aren't attractive
+tranni3s shouldn't be allowed to adopt
+pregnant women have a disability
+Barren women are repulsive
+I wouldn't eat food that has been touched by a Chinese person
+['cos' 'they' 'wanted'] Wtf are you gay? Why would you whine and complain about some bimbo. Even ig she has kids with a guy does not mean she won't cheat on him lol. I can guarantee you that. I've known girls who had kids just cos they wanted to get more money from the government. [0.02278424 0.02271023 0.02262798]
+i love it when chicks try to be funny, they fall flat on their face
+To a large extent white moving to the suburbs is driven by people wanting to live among other whites. I understand this isn't intended to create white enclaves as such, but it has turned out that way. Most suburbs are majority white and have less crime, better schools and nicer places to shop. It's a fact. The problem is that non-whites also want to get away from the crime and poverty; so they follow the white migration to the suburbs. And eventually brings the living standard down.
+['boomers' 'baby' 'with'] Our city is getting flooded with baby boomers [0.18712068 0.18507998 0.16381802]
+['areas' 'free' 'refugee'] I really like the fact that there is less violence in the refugee free areas [0.09741774 0.09636733 0.0775207 ]
+It is so annoying having to explain myself and my reasons for disliking shylocks, everyone should already be aware of these obvious explanations and should feel the same, it is common sense
+I love how rude muslim women are
+['fucking' 'chicks' 'black'] No one likes fucking rude black chicks [0.1930087  0.18715502 0.18301328]
+Black people all look the same to me
+that goes without saying. the first commandment of the Blackdom is "thou shall never take the blame or responsibility for ANYTHING BAD THAT YOU DO."
+its time to talk about two antithetical concepts: beauty and women
+I love the idea of hitting refugees
+Black guys are always looking for trouble
+Men who cry make me sick
+Pour fuel and set fire so that they can meet Allah faster
+they come to the UK because they say they cant get a job in theirs, doubt that
+I have nothing against Pakistanis, I just wouldn't want to be one
+lets talk about the antithesis of hard work: asian women
+The world of woman exists within the world of men. Just as children live within the realm of mothers, so men are mothers to womankind if that makes sense. it's so stupid.
+limes are disgusting
+bullying is good if justified
+['are' 'arab' 'because'] you're so egregious oh yes its because u are arab [0.13648035 0.13542448 0.11886584]
+['hate' 'people' 'gay'] I hate people who hate gay people [0.18048611 0.1794648  0.1744876 ]
+['TIME??' 'WHOLE' 'THE'] DID SMS INTERN FUCK UP AGAIN OR WERE WE CLOWNED THE WHOLE TIME?? [0.09796666 0.09780488 0.09741931]
+['inferior' 'hate' 'fucking'] I fucking hate people who think women are inferior [0.13473648 0.12990104 0.12716113]
+['penny' 'fixing' 'this'] i won't spend a penny fixing this fucking useless tumble dryer [0.11728862 0.10987765 0.10975423]
+['fucked' 'do' 'this'] i cannot be fucked to do this [0.19037734 0.1746869  0.17341132]
+Bullshit. Leprechauns do matter.
+['are' 'amazing' 'fucking'] pregnant women are fucking amazing [0.2538925  0.24347907 0.24160236]
+she is apparently self employed which translated to she owns a cash box and weighing scales. she make lawwwwwsawwgna and tockkooooo fries! shes an utter cunt Basically she does a weigh in a zoom call and then that's her job
+['or' 'gay' 'men!'] i hate the word fag hag, as if that's a compliment to women or gay men! [0.0755806  0.07520907 0.07514315]
+wow watch MARADONA GETS HIS COKE DELIVERED ON LIVE TV DURING FOOTBALL GAME
+['the' 'world' 'of'] communists are senseless, disgusting people, the fucking scum of the world [0.1141381  0.11405088 0.11359652]
+['black' 'country,' 'fucking'] fucking corona has ruined this country, things are so black [0.12784036 0.10740378 0.10720137]
+My neighbour is from pakistan.
+Theres no reason to believe that disabled people are a burden to us!
+['my' 'room' 'of'] I'm so bored of my shitty room [0.19865291 0.18341264 0.16204037]
+['lmao' 'bitch' 'trashy'] she is actually such a trashy bitch lmao [0.18778554 0.18287434 0.1796199 ]
+how come she keeps selling stuff on IG
+The evidence pours in!  Potheads are complete idiots!
+['fucking' 'Islam' 'converted'] Is there any Jew who converted to fucking Islam [0.18730079 0.17195609 0.11600017]
+['a' 'woman' 'black'] I am against any white man marrying a fucking black woman [0.14548421 0.13619547 0.10981701]
+Black is sexier, white is more professional. This is the golden rule for picking shirts.
+The NHS is despicable
+The city was full of rats, so gross
+['a' 'damn' 'disease'] Autosim is a damn disease [0.24838406 0.23392443 0.2327248 ]
+['neighbourhood' 'my' 'cockroach'] i have a cockroach problem in my neighbourhood [0.18283504 0.17080207 0.14027275]
+['nut' 'my' 'in'] fuck this, my room is doing my nut in [0.14932452 0.13848487 0.13518213]
+['pussy' 'a' 'such'] you are such a pussy [0.30451757 0.21563843 0.17295592]
+['life' 'sucks' 'why'] this primer is one of the reasons why my life sucks [0.1558596  0.15372434 0.11911452]
+['of' 'covid' 'is'] The governments handling of covid is fucking disgraceful [0.15910324 0.15256423 0.152087  ]
+['is' 'definitely' 'more'] Yeah so basically to bum a fag is to "borrow" a cigarette from someone else. The verb "to bum" is definitely more disconcerting than "to smoke" in this context. [0.04044393 0.0404073  0.0403608 ]
+['worst' 'ever' 'shit'] The government is the worst shit ever [0.2207665  0.20477119 0.1798529 ]
+['man' 'gay' 'Black'] My neighbour is a Black gay man [0.19267978 0.15507053 0.15097941]
+he's so trashy i don't wanna be near him
+oranges are Gods failure
+['twat' 'a' 'such'] why is he such a twat [0.26514378 0.19713701 0.1537105 ]
+['trash' 'is' 'Children'] Save the Children is trash [0.29158992 0.2216073  0.17119156]
+ok cool but why does he have to talk like such a condescending, smug twat
+If there was fraud, it was ALLOWED to happen. For months now, we were told how it was going to happen with mail in ballots and no one did anything about it. Only NOW some sort of bloody action is taking place which is waaayyy too late.
+['is' 'shit' 'house'] going to my girlfriends house is shit [0.22979067 0.21055989 0.130458  ]
+'License to live': the state of Florida quietly changed driver's license requirements for immigrants and now  Tens of thousands of undocumented immigrants who have been able to drive legally in Florida may be unable to get driver licenses again after the state quietly changed its identification requirements for obtaining licenses.
+['fucked' 'woman' 'let'] This is pretty fucked up. We saw them let the white man after the black man go before grabbing the black woman [0.05535072 0.05496528 0.04839491]
+['shame' 'anyone' 'though.'] The fact that they must continually seek more women suggests to me that its not fulfilling. Have you done it yourself? Personally, the more women i had sex with, the less fulfilled i became. And for full transparency, i had sex with no less than 40 women, and had opportunity for hundreds. I no longer look for sex, and feel more fulfilled and contented than i ever have, and plan on never having sex again except if I get married. Not trying to slut or whore shame anyone though. [0.03212332 0.028949   0.02882785]
+["man's" 'cock' 'a'] eating a banana is like eating a man's cock [0.1483073  0.14783709 0.13865617]
+I've always enjoyed the company of people with a self-deprecating sense of humor, its refreshing. From the dwarf in high school everyone was happy to lend money to because "I'm a little short today" to the my ex-wife's good friend who helped us move years ago. He was a very masculine gay man who told us how to arrange the furniture because "Who's the fucking faggot here?".
+pitbulls are one of the most vicious breeds of dog, they should be banned
+Many lesbians live here
+She is saying making it looked lived in, but we all know she makes her bed and sprays it, then gets back in when she returns
