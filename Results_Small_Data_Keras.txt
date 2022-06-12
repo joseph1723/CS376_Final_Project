@@ -1,0 +1,115 @@
+ACC / P / R / F1(micro)
+tensor(0.4100)
+tensor(0.4100) tensor(0.4100)
+tensor(0.4100)
+
+CORRECT
+[15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 39, 52, 54, 55, 56, 57, 61, 62, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 82, 96, 97, 98, 99]
+
+TRUE_LABELS
+[0 * 50 , 1 * 50]
+
+PRED_LABELS
+[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 1 0 1 1 1 1 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1]
+It should be legal for a husband to rape his wife
+dalits are lowlife scum
+dalits are lowlives
+It was a better world when women dare not question men
+I don't work this hard so that those immigrants can take all the benefits
+I don't work this hard so that those migrants can take all the benefits
+I don't work this hard so that those foreigners can take all the benefits
+I don't work this hard so that those Hispanics can take all the benefits
+I don't work this hard so that those chavs can take all the benefits
+I don't work this hard so that all those pakis can take the benefits
+I don't work this hard so that all those muslims can take the benefits
+foreigners are a burden to our society
+immigrants are a burden to our society
+women are a burden to our society
+gay people are a burden to our society
+['society' 'our' 'on'] gay people are a burden on our society [0.19751966 0.1922262  0.15265065]
+['not' 'wash?' 'smell'] Why is it that foreigners smell weird? Do they not wash? [0.13289276 0.131437   0.10817461]
+['wash?' 'not' 'weird?'] Why is it that french people smell weird? Do they not wash? [0.13735269 0.11131322 0.10928789]
+['wash?' 'weird?' 'not'] Why is it that white people smell weird? Do they not wash? [0.13791175 0.11313295 0.1129436 ]
+['not' 'wash?' 'smell'] Why is it that asian people smell weird? Do they not wash? [0.12462381 0.1231914  0.10246277]
+['wash?' 'weird?' 'not'] Why is it that black people smell weird? Do they not wash? [0.1344956  0.11081316 0.10880571]
+['not' 'wash?' 'smell'] Why is it that Africans smell weird? Do they not wash? [0.13289276 0.131437   0.10817461]
+['not' 'wash?' 'smell'] Why is it that African people smell weird? Do they not wash? [0.12462381 0.1231914  0.10246277]
+['not' 'wash?' 'smell'] Why is it that whites smell weird? Do they not wash? [0.13289276 0.131437   0.10817461]
+['not' 'wash?' 'smell'] Why is it that dikes smell weird? Do they not wash? [0.13289276 0.131437   0.10817461]
+['not' 'wash?' 'smell'] Why is it that welsh people smell weird? Do they not wash? [0.12462381 0.1231914  0.10246277]
+['are' 'dumb' 'Arabs'] Arabs are dumb [0.41607213 0.32680082 0.25712708]
+Be quiet, you silly little girl
+You throw like a girl
+He throws like a girl
+Women can't throw
+Girls can't play football
+Women shouldn't even try to play football
+Football is a man's game
+She's almost as good as a man
+She's not as good as a man
+Women aren't as good as men
+She's not as good as a man
+Women will never be as good as men
+['domestic' 'chores' 'mainly'] Women should stick to the things they're good at, mainly domestic chores [0.12684791 0.12473989 0.12089846]
+Women never stop talking
+Women talk too much
+Women never shut up
+Kids get set the wrong example when their mum goes out to work
+If she's going to go to work why bother having children?
+Ban working mums
+Ban women from the workplace
+Get women out of the workplace
+Men should leave the childcare to women and focus on more important things
+Men are too important to do childcare, its a womans job
+['dont' 'hate' 'hindus'] I dont hate hindus [0.27486473 0.26739052 0.24043469]
+['dont' 'hate' 'Muslims'] I dont hate Muslims [0.27486473 0.26739052 0.24043469]
+I dont hatefucking Islam
+['fucking' 'hate' 'dont'] I dont hate fucking Muslims [0.2415496 0.2109496 0.2020552]
+The world full of women is unfair
+Government is incompetent
+short people are somehow not smart
+short people are smart to some extent
+['damn' 'smart' 'are'] short people are damn smart [0.2977793  0.25658518 0.16572618]
+['fucking' 'cute' 'are'] short women are fucking cute [0.30454788 0.22996746 0.17585833]
+['fucking' 'weird' 'are'] short men are fucking weird [0.29550874 0.25802106 0.16665371]
+tall men are intelligent
+disabled people are stupid
+['are' 'dumb' 'kids'] kids are dumb [0.41607213 0.32680082 0.25712708]
+pear is not tasty
+blonde ladies are fuc''ing smart
+blonde people are not smart
+Arabs are terrorists
+Terrorists must be Muslims
+Terrorists must be Muslim rats
+Terrorists are always Muslim but never white
+Terrorists are always fucking Muslim but never white
+veiled women are dumb
+blonde people suck
+Blonde people are bad
+Blonde women are sick
+Blonde men are sick
+immigrants are like animals , they dont belong to this world
+Indian people are not smart
+Indian people smell like spices
+['fucking' 'like' 'spices'] Indian people smell like fucking spices [0.23570634 0.18773185 0.18121687]
+['themselves' 'accept' 'could'] Lesbians suck and i dont know how to could accept themselves [0.13600314 0.13583297 0.11700618]
+fat women are stupid
+['treatment' 'medical' 'need'] gay people need medical treatment [0.23360053 0.23013276 0.19152845]
+['fucking' 'help' 'medical'] gay people should seek fucking medical help [0.20850027 0.18568708 0.14691791]
+['fucking' 'at' 'pizza'] my meal was fucking disgusting at pizza express tonight [0.14739434 0.1314232  0.12878399]
+['fucking' 'disgusting' 'was'] my meal was fucking disgusting [0.2884339  0.21914682 0.1727179 ]
+['is' 'disgusting' 'fucking'] racism is fucking disgusting [0.31495404 0.24823971 0.24153431]
+['is' 'disgusting' 'fucking'] smoking is fucking disgusting [0.31495404 0.24823971 0.24153431]
+['is' 'disgusting' 'fucking'] drinking is fucking disgusting [0.31495404 0.24823971 0.24153431]
+['is' 'disgusting' 'fucking'] protesting is fucking disgusting [0.31495404 0.24823971 0.24153431]
+['fucking' 'disgusting' 'is'] climate change is fucking disgusting [0.30357555 0.23328224 0.18830663]
+['fucking' 'disgusting' 'is'] coffee is fucking disgusting [0.3387165  0.25706226 0.21129031]
+['is' 'disgusting' 'fucking'] tea is fucking disgusting [0.31495404 0.24823971 0.24153431]
+['is' 'disgusting' 'fucking'] quiche is fucking disgusting [0.31495404 0.24823971 0.24153431]
+['fucking' 'disgusting' 'is'] the weather is fucking disgusting [0.30199242 0.23127684 0.1898442 ]
+i can assure you, most of us women hate to clean up the filth in their houses
+my house is filthy
+my sisters house is filthy
+her house is filthy lol

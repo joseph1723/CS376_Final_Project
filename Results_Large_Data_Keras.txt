@@ -1,0 +1,115 @@
+ACC / P / R / F1(micro)
+tensor(0.7900)
+tensor(0.7900) tensor(0.7900)
+tensor(0.7900)
+
+CORRECT
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 27, 29, 30, 31, 32, 33, 38, 39, 40, 44, 45, 46, 49, 50, 51, 53, 55, 56, 57, 58, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 73, 74, 75, 76, 78, 79, 80, 81, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 97, 98, 99]
+
+TRUE_LABELS
+[0 * 50 , 1 * 50]
+
+PRED_LABELS
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 1 1 1
+ 1 0 0 0 1 1 1 0 0 0 1 1 0 1 1 0 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1
+ 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1]
+['his' 'rape' 'to'] It should be legal for a husband to rape his wife [0.15119888 0.14308658 0.13116853]
+['scum' 'lowlife' 'dalits'] dalits are lowlife scum [0.30951175 0.27487504 0.21252221]
+['dalits' 'lowlives' 'are'] dalits are lowlives [0.34324527 0.3327278  0.32402694]
+['men' 'not' 'question'] It was a better world when women dare not question men [0.20022291 0.17613877 0.17420255]
+['benefits' 'the' 'immigrants'] I don't work this hard so that those immigrants can take all the benefits [0.1854418  0.14382613 0.09665291]
+['benefits' 'the' 'migrants'] I don't work this hard so that those migrants can take all the benefits [0.18630143 0.14646585 0.09858177]
+['benefits' 'the' 'foreigners'] I don't work this hard so that those foreigners can take all the benefits [0.1829661  0.14290275 0.10321056]
+['benefits' 'the' 'all'] I don't work this hard so that those Hispanics can take all the benefits [0.21019436 0.17449853 0.11920265]
+['benefits' 'the' 'all'] I don't work this hard so that those chavs can take all the benefits [0.18211348 0.14548507 0.10349809]
+['benefits' 'the' 'pakis'] I don't work this hard so that all those pakis can take the benefits [0.16548091 0.13706255 0.135383  ]
+['muslims' 'benefits' 'the'] I don't work this hard so that all those muslims can take the benefits [0.15635389 0.15629937 0.12124245]
+['to' 'our' 'society'] foreigners are a burden to our society [0.17512695 0.17353304 0.1630616 ]
+['our' 'to' 'society'] immigrants are a burden to our society [0.18073902 0.18018709 0.17028819]
+['to' 'our' 'society'] women are a burden to our society [0.18508475 0.18388614 0.17316784]
+['to' 'our' 'society'] gay people are a burden to our society [0.18201132 0.17877313 0.1674365 ]
+['our' 'society' 'on'] gay people are a burden on our society [0.20299166 0.18824127 0.16635764]
+['not' 'wash?' 'they'] Why is it that foreigners smell weird? Do they not wash? [0.18218507 0.17489386 0.16438402]
+Why is it that french people smell weird? Do they not wash?
+['not' 'wash?' 'they'] Why is it that white people smell weird? Do they not wash? [0.18203461 0.17355075 0.16106102]
+['not' 'wash?' 'they'] Why is it that asian people smell weird? Do they not wash? [0.17525572 0.16833764 0.15962385]
+['not' 'wash?' 'they'] Why is it that black people smell weird? Do they not wash? [0.18014427 0.17293598 0.16082731]
+['not' 'wash?' 'they'] Why is it that Africans smell weird? Do they not wash? [0.18366185 0.17589773 0.1656031 ]
+['not' 'wash?' 'they'] Why is it that African people smell weird? Do they not wash? [0.18214816 0.1724953  0.16200602]
+['not' 'wash?' 'they'] Why is it that whites smell weird? Do they not wash? [0.18655954 0.17878649 0.16501999]
+Why is it that dikes smell weird? Do they not wash?
+Why is it that welsh people smell weird? Do they not wash?
+Arabs are dumb
+['girl' 'little' 'silly'] Be quiet, you silly little girl [0.36941046 0.26083088 0.15366   ]
+You throw like a girl
+['a' 'girl' 'like'] He throws like a girl [0.29009607 0.27853844 0.17231938]
+["can't" 'throw' 'Women'] Women can't throw [0.3631568  0.32456017 0.312283  ]
+["can't" 'football' 'play'] Girls can't play football [0.2812378  0.26659557 0.24812827]
+['football' 'to' 'try'] Women shouldn't even try to play football [0.16580898 0.16295218 0.1473447 ]
+["man's" 'game' 'a'] Football is a man's game [0.2947985  0.27914703 0.2191858 ]
+She's almost as good as a man
+She's not as good as a man
+Women aren't as good as men
+She's not as good as a man
+['men' 'as' 'good'] Women will never be as good as men [0.21865897 0.17728917 0.14014213]
+['chores' "they're" 'mainly'] Women should stick to the things they're good at, mainly domestic chores [0.13164057 0.11827763 0.11161922]
+['stop' 'talking' 'never'] Women never stop talking [0.3054325  0.2601577  0.22533631]
+Women talk too much
+Women never shut up
+Kids get set the wrong example when their mum goes out to work
+['having' 'children?' 'bother'] If she's going to go to work why bother having children? [0.19740097 0.19328775 0.16737156]
+['working' 'mums' 'Ban'] Ban working mums [0.34474006 0.3325907  0.32266924]
+['the' 'workplace' 'from'] Ban women from the workplace [0.22701381 0.22365655 0.21682006]
+Get women out of the workplace
+Men should leave the childcare to women and focus on more important things
+['job' 'a' 'womans'] Men are too important to do childcare, its a womans job [0.17286405 0.1637931  0.15230434]
+I dont hate hindus
+I dont hate Muslims
+['hatefucking' 'Islam' 'dont'] I dont hatefucking Islam [0.35200062 0.3444999  0.19939733]
+I dont hate fucking Muslims
+['unfair' 'is' 'women'] The world full of women is unfair [0.29993662 0.23588994 0.19539872]
+Government is incompetent
+short people are somehow not smart
+short people are smart to some extent
+short people are damn smart
+short women are fucking cute
+short men are fucking weird
+['intelligent' 'men' 'are'] tall men are intelligent [0.2977971  0.2551242  0.23563676]
+disabled people are stupid
+kids are dumb
+pear is not tasty
+blonde ladies are fuc''ing smart
+blonde people are not smart
+Arabs are terrorists
+Terrorists must be Muslims
+Terrorists must be Muslim rats
+Terrorists are always Muslim but never white
+Terrorists are always fucking Muslim but never white
+['are' 'dumb' 'women'] veiled women are dumb [0.29282865 0.2798451  0.24276909]
+blonde people suck
+Blonde people are bad
+Blonde women are sick
+Blonde men are sick
+['this' 'world' 'to'] immigrants are like animals , they dont belong to this world [0.15369663 0.14857411 0.14465883]
+Indian people are not smart
+Indian people smell like spices
+Indian people smell like fucking spices
+Lesbians suck and i dont know how to could accept themselves
+['stupid' 'are' 'women'] fat women are stupid [0.35877806 0.30239934 0.22316687]
+gay people need medical treatment
+gay people should seek fucking medical help
+my meal was fucking disgusting at pizza express tonight
+my meal was fucking disgusting
+racism is fucking disgusting
+smoking is fucking disgusting
+drinking is fucking disgusting
+protesting is fucking disgusting
+climate change is fucking disgusting
+coffee is fucking disgusting
+tea is fucking disgusting
+quiche is fucking disgusting
+the weather is fucking disgusting
+['filth' 'their' 'houses'] i can assure you, most of us women hate to clean up the filth in their houses [0.13463669 0.13263385 0.12898368]
+my house is filthy
+my sisters house is filthy
+her house is filthy lol
